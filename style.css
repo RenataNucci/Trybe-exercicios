@@ -1,0 +1,37 @@
+h1 {
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+ul {
+background-color: bisque;
+font-style: italic;
+
+}
+
+.background-color {
+    background-color: aquamarine
+
+}
+
+.fundo-amarelo {
+    background-color: yellow;
+}
+.fundo-vermelho {
+    background-color: red;
+}
+.fundo-marrom {
+    background-color: brown ;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+body {
+    font-size: 16px;
+    line-height: 40px;
+}

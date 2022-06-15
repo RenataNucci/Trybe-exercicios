@@ -46,3 +46,6 @@ div:nth-of-type(1) {
     text-decoration: underline;
   }
 
+div:nth-child(odd) h3 {
+    font-style: italic;
+}

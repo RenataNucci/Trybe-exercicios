@@ -10,4 +10,9 @@ let info = {
 
   info.recorrente = "Sim";
   console.log(info);
-  
+
+  //Exercicio 3
+
+for (let index in info) {
+  console.log(index);
+}

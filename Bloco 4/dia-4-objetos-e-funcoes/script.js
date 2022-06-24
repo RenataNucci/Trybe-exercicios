@@ -16,3 +16,9 @@ let info = {
 for (let index in info) {
   console.log(index);
 }
+
+//Exercicio 4
+
+for (let valores in info) {
+  console.log(info[valores]);
+}

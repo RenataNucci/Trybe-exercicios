@@ -70,4 +70,9 @@ leitor.livrosFavoritos.push(
   );
   for (let novosLivros in leitor.livrosFavoritos) {
     console.log(leitor.livrosFavoritos[novosLivros]);
-  }
+  };
+
+  //Exercicio 7
+
+  console.log(leitor.nome + ' tem ' + leitor.livrosFavoritos.length + ' livros favoritos.');
+  

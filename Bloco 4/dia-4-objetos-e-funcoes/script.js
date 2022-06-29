@@ -81,3 +81,8 @@ leitor.livrosFavoritos.push(
   //seguinte formato: "Julia tem 2 livros favoritos".
 
   console.log(leitor.nome + ' tem ' + leitor.livrosFavoritos.length + ' livros favoritos.');
+
+  //Exercicio 5 (Funçoes) - Crie uma função que receba um array de inteiros e retorne o 
+  //inteiro que mais se repete.
+
+  

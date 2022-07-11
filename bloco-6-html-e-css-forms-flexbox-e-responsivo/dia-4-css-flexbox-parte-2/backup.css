@@ -78,6 +78,7 @@
     flex-direction: column;
     margin: 20px;
     flex-basis: 350px;
+    flex-grow: 1;
   }
   
   .aside-container h3, h4 {
@@ -89,4 +90,5 @@
     margin: 10px 0;
     text-align: justify;
   }
+  
 

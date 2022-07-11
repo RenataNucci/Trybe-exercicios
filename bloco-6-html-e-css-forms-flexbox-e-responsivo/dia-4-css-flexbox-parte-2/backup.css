@@ -31,6 +31,7 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
+    align-self: center;
   }
   
   .menu-container li {
@@ -40,3 +41,4 @@
     list-style: none;
     margin-right: 10px;
   }
+  
